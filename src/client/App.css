@@ -1,0 +1,40 @@
+
+.face-pay-root{
+  background-image: url('https://static.ghost.org/v1.0.0/images/blog-cover.jpg');
+  min-height: 100vh;
+}
+.video-ele{
+  width: 100%;
+}
+.img-capture{   
+max-width: 200px;
+margin-right: 15px;
+}
+/* landing start */
+.landing-wrapper{
+  justify-content: space-around;
+  align-items: center;
+  min-height: 100vh;
+}
+
+
+
+.landing-wrapper .ant-card-body{
+  display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+/* landing end */
+
+/* register start */
+.register-wrapper{
+  justify-content: space-around;
+}
+/* register end */
+
+/* process start */
+.process-wrapper{
+  justify-content: space-around;
+  align-items: center;
+  min-height: 100vh;
+}
